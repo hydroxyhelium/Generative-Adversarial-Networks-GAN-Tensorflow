@@ -33,19 +33,19 @@ To use the network architecture on a different dataset, replace the dataset, adj
 Here are some sample results from the GAN:
 
 <p>
-<img src="sample1.png" alt="" style="width: 50%;">
+<img src="sample1.png" alt="" style="width:50%; height:50%;">
 </p>
 
 <p>
-<img src="sample2.png" alt="" style="width: 50%;">
+<img src="sample2.png" alt="" style="width:50%; height:50%;">
 </p>
 
 <p>
-<img src="sample3.png" alt="" style="width: 50%;">
+<img src="sample3.png" alt="" style="width: 50%; height:50%;">
 </p>
 
 <p>
-<img src="sample4.png" alt="" style="width: 50%;">
+<img src="sample4.png" alt="" style="width: 50%; height:50%;">
 </p>
 
 ## Limitations
